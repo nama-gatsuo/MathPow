@@ -2,8 +2,9 @@
 Codes introduced at "Math.Pow()" 2016 Lightning Talk.
 The event info is [here](http://mathpower.sugakubunka.com/).
 
-Slides: [http://www.slideshare.net/ayumunagamatsu/ss-66706777](http://www.slideshare.net/ayumunagamatsu/ss-66706777)
-Blog: [ayumu-nagamatsu.com/archives/472/](ayumu-nagamatsu.com/archives/472/)
+Slides: [http://www.slideshare.net/ayumunagamatsu/ss-66706777](http://www.slideshare.net/ayumunagamatsu/ss-66706777 "slide")
+
+Blog: [ayumu-nagamatsu.com/archives/472/](http://ayumu-nagamatsu.com/archives/472/ "blog")
 
 # Content
 ## 1_symmetry
